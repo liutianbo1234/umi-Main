@@ -6,6 +6,7 @@ export default function IndexPage() {
       <h1 className={styles.title}>Page index窗前明月光</h1>
       <h1 className={styles.title}>举头望明月，低头思故乡</h1>
       <h1 className={styles.title}>2825628257</h1>
+      <h1 className={styles.title}>969697</h1>
     </div>
   );
 }
